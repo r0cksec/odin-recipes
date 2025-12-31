@@ -1,0 +1,11 @@
+*{
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #242424;
+    color: white;
+}
+
+.home{
+    border: 5px solid rgba(1, 2, 73, 0.719);
+    padding-left: 50%;
+    
+}
